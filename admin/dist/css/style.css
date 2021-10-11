@@ -1,0 +1,73 @@
+.delete-option {
+	padding: 0;
+	margin: 0;
+}
+.delete-option ul li{
+	list-style: none;
+	display: inline;
+}
+
+.table-img {
+	width: 40px;
+	height: 40px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+
+}
+.form-img {
+	display: block;
+	width: 50px;]
+	height: 50px;
+	border: 2px solid #ddd;
+}
+
+.card{
+	display: block;
+}
+.edit-title{
+	background: #959595;
+	padding-bottom: 3px;
+
+}
+.edit-title h3{
+	margin-left: 350px;
+	background: #676767;
+	color: #fff;
+	padding: 5px;
+	border-radius: 10px;
+	font-weight: 700;
+}
+.edit-title h3:hover{
+	background: #363637;
+	padding: 5px;
+	transition: .5s;
+}
+.profile-title{
+	background: #959595;
+	padding-bottom: 3px;
+
+}
+.profile-title h3{
+	margin-left: 120px;
+	background: #676767;
+	color: #fff;
+	padding: 5px;
+	border-radius: 10px;
+	font-weight: 700;
+}
+.profile-title h3:hover{
+	background: #363637;
+	padding: 5px;
+	transition: .5s;
+}
+
+
+.user-profile img{
+	display: block;
+	width: 200px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	border: 3px solid #ADADAD;
+	border-radius: 20% 20%;
+	text-align: center;
+}
